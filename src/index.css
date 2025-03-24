@@ -1,6 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui" {
-  themes: nord --default, night --prefersdark;
+  themes: emerald --default, night --prefersdark;
 }
 
 .material-symbols-rounded {

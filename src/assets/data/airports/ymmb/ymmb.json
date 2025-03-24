@@ -1,0 +1,45 @@
+{
+    "airportName": "Moorabbin Airport",
+    "frequencies":[
+        {
+            "type": "ATIS",
+            "frequency": "120.9",
+            "name": "Moorabbin Information"
+        },
+        {
+            "type": "Ground",
+            "frequency": "134.25",
+            "name": "Moorabbin Ground"
+        },
+        {
+            "type": "Tower",
+            "frequency": "118.1",
+            "name": "Moorabbin Tower"
+        },
+        {
+            "type": "Tower",
+            "frequency": "123.0",
+            "name": "Moorabbin Tower"
+        },
+        {
+            "type": "Centre",
+            "frequency": "135.7",
+            "name": "Melbourne Centre"
+        }
+    ],
+    "runupBays":[
+        "northern run up bay",
+        "southern run up bay"
+    ],
+    "runways": [
+        {
+            "name": "17L",
+            "departureHolding": [""],
+            "arrivalHolding": [""]
+        }
+    ],
+    "entryPoints": [
+        "carrum",
+        "GMH"
+    ]
+}
